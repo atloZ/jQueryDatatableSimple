@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace db
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine(DbConn.test());
+        }
+    }
+}
