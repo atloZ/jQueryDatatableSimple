@@ -36,14 +36,6 @@ namespace jQueryDatatableMVCSimple.Controllers
         }
 
         /// <summary>
-        /// Huszasával kiírt adatsoros táblázat
-        /// </summary>
-        public IActionResult Datatable2()
-        {
-            return View();
-        }
-
-        /// <summary>
         /// Adatbázis és Datatable összekötése
         /// </summary>
         [HttpPost]
