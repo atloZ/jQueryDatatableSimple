@@ -1,5 +1,3 @@
-using System;
-
 namespace jQueryDatatableMVCSimple.Models
 {
     public class ErrorViewModel
